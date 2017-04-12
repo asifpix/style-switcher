@@ -1,0 +1,9 @@
+body {
+    background: #915edf;
+}
+.switcher-trigger,
+.color-switcher strong,
+.color-switcher i,
+.switcher-wrap ul li a:hover {
+	color: #915edf;
+}
