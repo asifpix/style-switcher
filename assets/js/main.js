@@ -5,6 +5,7 @@
 
 		$('.switcher-trigger').click(function(){
 			$('.switcher-wrap').toggleClass('active');
+			$('.switcher-trigger .fa').toggleClass('fa-toggle-on fa-toggle-off');
 		});
 
 		$('.color-switcher ul li').on('click', function () {
